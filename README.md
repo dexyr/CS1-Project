@@ -1,10 +1,10 @@
+![demo pic](game-demo.gif)
+
 # CS1 Project
 A very old (2016) and very simple game I made
 Unfortunately, GameMaker Studio 1.4 is no longer supported (nor are licenses being sold).
 
 I created all the graphics and code, but the sounds were generated using a website.
-
-![demo pic](cs1-demo.png)
 
 Here a readme using the original information I wrote out.
 
